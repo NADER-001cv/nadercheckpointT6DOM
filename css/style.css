@@ -1,0 +1,24 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.about_img{
+    width: 220px;
+    height: 180px;
+}
+
+.myproduct-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
